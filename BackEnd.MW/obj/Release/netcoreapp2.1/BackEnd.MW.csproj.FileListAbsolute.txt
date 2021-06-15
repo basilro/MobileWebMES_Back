@@ -1,0 +1,17 @@
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.MW\bin\Release\netcoreapp2.1\BackEnd.MW.deps.json
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.MW\bin\Release\netcoreapp2.1\BackEnd.MW.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.MW\bin\Release\netcoreapp2.1\BackEnd.MW.pdb
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.MW\bin\Release\netcoreapp2.1\BackEnd.IDA.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.MW\bin\Release\netcoreapp2.1\BackEnd.Model.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.MW\bin\Release\netcoreapp2.1\Logger.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.MW\bin\Release\netcoreapp2.1\Newtonsoft.Json.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.MW\bin\Release\netcoreapp2.1\BackEnd.IDA.pdb
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.MW\bin\Release\netcoreapp2.1\BackEnd.Model.pdb
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.MW\bin\Release\netcoreapp2.1\Newtonsoft.Json.xml
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.MW\obj\Release\netcoreapp2.1\BackEnd.MW.csprojAssemblyReference.cache
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.MW\obj\Release\netcoreapp2.1\BackEnd.MW.csproj.CoreCompileInputs.cache
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.MW\obj\Release\netcoreapp2.1\BackEnd.MW.AssemblyInfoInputs.cache
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.MW\obj\Release\netcoreapp2.1\BackEnd.MW.AssemblyInfo.cs
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.MW\obj\Release\netcoreapp2.1\BackEnd.MW.csproj.CopyComplete
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.MW\obj\Release\netcoreapp2.1\BackEnd.MW.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.MW\obj\Release\netcoreapp2.1\BackEnd.MW.pdb

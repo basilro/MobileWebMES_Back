@@ -1,0 +1,14 @@
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.IDA\bin\Release\netcoreapp2.1\BackEnd.IDA.deps.json
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.IDA\bin\Release\netcoreapp2.1\BackEnd.IDA.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.IDA\bin\Release\netcoreapp2.1\BackEnd.IDA.pdb
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.IDA\bin\Release\netcoreapp2.1\BackEnd.Model.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.IDA\bin\Release\netcoreapp2.1\Newtonsoft.Json.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.IDA\bin\Release\netcoreapp2.1\BackEnd.Model.pdb
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.IDA\bin\Release\netcoreapp2.1\Newtonsoft.Json.xml
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.IDA\obj\Release\netcoreapp2.1\BackEnd.IDA.csprojAssemblyReference.cache
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.IDA\obj\Release\netcoreapp2.1\BackEnd.IDA.csproj.CoreCompileInputs.cache
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.IDA\obj\Release\netcoreapp2.1\BackEnd.IDA.AssemblyInfoInputs.cache
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.IDA\obj\Release\netcoreapp2.1\BackEnd.IDA.AssemblyInfo.cs
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.IDA\obj\Release\netcoreapp2.1\BackEnd.IDA.csproj.CopyComplete
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.IDA\obj\Release\netcoreapp2.1\BackEnd.IDA.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.IDA\obj\Release\netcoreapp2.1\BackEnd.IDA.pdb

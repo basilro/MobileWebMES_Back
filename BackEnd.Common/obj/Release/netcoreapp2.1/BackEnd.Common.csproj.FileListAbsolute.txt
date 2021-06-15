@@ -1,0 +1,16 @@
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Common\bin\Release\netcoreapp2.1\BackEnd.Common.deps.json
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Common\bin\Release\netcoreapp2.1\BackEnd.Common.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Common\bin\Release\netcoreapp2.1\BackEnd.Common.pdb
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Common\bin\Release\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Common\bin\Release\netcoreapp2.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Common\bin\Release\netcoreapp2.1\Newtonsoft.Json.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Common\bin\Release\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Common\bin\Release\netcoreapp2.1\Microsoft.Extensions.Caching.Abstractions.xml
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Common\bin\Release\netcoreapp2.1\Newtonsoft.Json.xml
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Common\obj\Release\netcoreapp2.1\BackEnd.Common.csprojAssemblyReference.cache
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Common\obj\Release\netcoreapp2.1\BackEnd.Common.csproj.CoreCompileInputs.cache
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Common\obj\Release\netcoreapp2.1\BackEnd.Common.AssemblyInfoInputs.cache
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Common\obj\Release\netcoreapp2.1\BackEnd.Common.AssemblyInfo.cs
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Common\obj\Release\netcoreapp2.1\BackEnd.Common.csproj.CopyComplete
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Common\obj\Release\netcoreapp2.1\BackEnd.Common.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Common\obj\Release\netcoreapp2.1\BackEnd.Common.pdb

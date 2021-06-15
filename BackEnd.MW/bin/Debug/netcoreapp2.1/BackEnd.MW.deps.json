@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "BackEnd.MW/1.0.0": {
+        "dependencies": {
+          "BackEnd.IDA": "1.0.0",
+          "Logger": "2.1.2.0",
+          "Newtonsoft.Json": "11.0.0.0"
+        },
+        "runtime": {
+          "BackEnd.MW.dll": {}
+        }
+      },
+      "BackEnd.IDA/1.0.0": {
+        "dependencies": {
+          "BackEnd.Model": "1.0.0"
+        },
+        "runtime": {
+          "BackEnd.IDA.dll": {}
+        }
+      },
+      "BackEnd.Model/1.0.0": {
+        "runtime": {
+          "BackEnd.Model.dll": {}
+        }
+      },
+      "Logger/2.1.2.0": {
+        "runtime": {
+          "Logger.dll": {
+            "assemblyVersion": "2.1.2.0",
+            "fileVersion": "2.1.2.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BackEnd.MW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BackEnd.IDA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BackEnd.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Logger/2.1.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

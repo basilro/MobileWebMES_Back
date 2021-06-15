@@ -1,0 +1,14 @@
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Model\bin\Release\netcoreapp2.1\BackEnd.Model.deps.json
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Model\bin\Release\netcoreapp2.1\BackEnd.Model.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Model\bin\Release\netcoreapp2.1\BackEnd.Model.pdb
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Model\bin\Release\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Model\bin\Release\netcoreapp2.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Model\bin\Release\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Model\bin\Release\netcoreapp2.1\Microsoft.Extensions.Caching.Abstractions.xml
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Model\obj\Release\netcoreapp2.1\BackEnd.Model.csprojAssemblyReference.cache
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Model\obj\Release\netcoreapp2.1\BackEnd.Model.csproj.CoreCompileInputs.cache
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Model\obj\Release\netcoreapp2.1\BackEnd.Model.AssemblyInfoInputs.cache
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Model\obj\Release\netcoreapp2.1\BackEnd.Model.AssemblyInfo.cs
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Model\obj\Release\netcoreapp2.1\BackEnd.Model.csproj.CopyComplete
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Model\obj\Release\netcoreapp2.1\BackEnd.Model.dll
+E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.Model\obj\Release\netcoreapp2.1\BackEnd.Model.pdb

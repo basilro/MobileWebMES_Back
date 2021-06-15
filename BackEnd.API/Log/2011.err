@@ -1,0 +1,30 @@
+[20201103 10:17:49.164]::[LogWriter.Write]  System.IO.IOException: The process cannot access the file 'E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.API\Log\BackEnd_20201103.log' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at Logger.NomalLogWriter.Write(LogMsg log)
+[20201103 10:32:13.761]::[LogWriter.Write]  System.IO.IOException: The process cannot access the file 'E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.API\Log\BackEnd_20201103.log' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at Logger.NomalLogWriter.Write(LogMsg log)
+[20201103 10:33:52.341]::[LogWriter.Write]  System.IO.IOException: The process cannot access the file 'E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.API\Log\BackEnd_20201103.log' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at Logger.NomalLogWriter.Write(LogMsg log)
+[20201103 16:30:40.460]::[LogWriter.Write]  System.IO.IOException: The process cannot access the file 'E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.API\Log\BackEnd_20201103.log' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at Logger.NomalLogWriter.Write(LogMsg log)
+[20201106 16:45:32.695]::[LogWriter.Write]  System.IO.IOException: The process cannot access the file 'E:\02.Sourece\DNTWEB\DNTBACK\BackEnd.API\Log\BackEnd_20201106.log' because it is being used by another process.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at Logger.NomalLogWriter.Write(LogMsg log)
